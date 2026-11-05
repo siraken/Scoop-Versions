@@ -1,12 +1,12 @@
 {
-    "version": "2.2.1",
+    "version": "2.3.0",
     "description": "A full-featured download manager (Pre-release).",
     "homepage": "https://motrix.app",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/agalwood/Motrix/releases/download/v2.2.1/Motrix-2.2.1-win.zip",
-            "hash": "cfee15f405fe2369e4e772aa14646aec4a6bd74c6b66e5fc61edcbbb65bd22fa"
+            "url": "https://github.com/agalwood/Motrix/releases/download/v2.3.0/Motrix-2.3.0-win.zip",
+            "hash": "a6dfb76cbcf47f5986f610de30e0649bb252e7c2a9b2298430d54596693e1460"
         }
     },
     "shortcuts": [
