@@ -1,5 +1,5 @@
 {
-    "version": "ewLahb",
+    "version": "bO__rh",
     "description": "GN is a meta-build system that generates build files for Ninja.",
     "homepage": "https://gn.googlesource.com/gn",
     "license": "BSD-3-Clause",
@@ -9,8 +9,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://chrome-infra-packages.appspot.com/dl/gn/gn/windows-amd64/+/ewLahbzYIC8MMjFKuqduCTO9dLbIUirCz6YXM5ZwkmgC#/gn-windows-amd64.zip",
-            "hash": "7b02da85bcd8202f0c32314abaa76e0933bd74b6c8522ac2cfa6173396709268"
+            "url": "https://chrome-infra-packages.appspot.com/dl/gn/gn/windows-amd64/+/bO__rhn5sjYavPQosBbQdnEbQbORJZr0XNGvjNApfeAC#/gn-windows-amd64.zip",
+            "hash": "6cefffae19f9b2361abcf428b016d076711b41b391259af45cd1af8cd0297de0"
         }
     },
     "bin": "gn.exe",
