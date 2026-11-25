@@ -1,12 +1,12 @@
 {
-    "version": "0.5.0-nightly.12",
+    "version": "0.5.0-nightly.13",
     "description": "The worktree IDE by JetBrains for the pi coding agent (nightly version).",
     "homepage": "https://thinkrail.ai",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JetBrains/thinkrail/releases/download/v0.5.0-nightly.12/thinkrail-windows-x64.exe#/thinkrail.exe",
-            "hash": "83172c1441a2898a369f2cc8b0502fd9ec9d419d7c14edf1b5d8399020c59cae"
+            "url": "https://github.com/JetBrains/thinkrail/releases/download/v0.5.0-nightly.13/thinkrail-windows-x64.exe#/thinkrail.exe",
+            "hash": "840be5a23700a929636a35dac1909a32d1b82f462902c8c27113786946cc8d77"
         }
     },
     "env_set": {
