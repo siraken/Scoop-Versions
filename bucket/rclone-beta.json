@@ -1,18 +1,18 @@
 {
     "homepage": "https://rclone.org",
     "description": "rsync for cloud storage",
-    "version": "1.77.0-beta.10837.5e2a70fee",
+    "version": "1.77.0-beta.10838.14541d3ff",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://beta.rclone.org/v1.77.0-beta.10837.5e2a70fee/rclone-v1.77.0-beta.10837.5e2a70fee-windows-amd64.zip",
-            "extract_dir": "rclone-v1.77.0-beta.10837.5e2a70fee-windows-amd64",
-            "hash": "006e9568f935c1e9c982e1cc865a86030abf74501933c85ff72ad89c0ebe44dd"
+            "url": "https://beta.rclone.org/v1.77.0-beta.10838.14541d3ff/rclone-v1.77.0-beta.10838.14541d3ff-windows-amd64.zip",
+            "extract_dir": "rclone-v1.77.0-beta.10838.14541d3ff-windows-amd64",
+            "hash": "c54cd8242bedc0a440ae3f48beae55a85d2d6e2e49da29cd20cb1ca1dc487d6c"
         },
         "32bit": {
-            "url": "https://beta.rclone.org/v1.77.0-beta.10837.5e2a70fee/rclone-v1.77.0-beta.10837.5e2a70fee-windows-386.zip",
-            "extract_dir": "rclone-v1.77.0-beta.10837.5e2a70fee-windows-386",
-            "hash": "833946deef774f13e48ac3889f7744c9013011b755ebb39b28a81efc71381da5"
+            "url": "https://beta.rclone.org/v1.77.0-beta.10838.14541d3ff/rclone-v1.77.0-beta.10838.14541d3ff-windows-386.zip",
+            "extract_dir": "rclone-v1.77.0-beta.10838.14541d3ff-windows-386",
+            "hash": "1e1cba1fcd3912b9a0a106435db2df7457d8e8fbc942dfaa54b31ee889fdfc6a"
         }
     },
     "bin": [
